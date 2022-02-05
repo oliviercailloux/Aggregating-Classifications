@@ -1,0 +1,18 @@
+= Aggregating Classifications: Theory and Computation
+
+A classification is an assignment of objects into any collection of predefined categories. Classification aggregation (CA) refers to settings where an ordered list of classifications is aggregated into a single classification. The model admits various interpretations. For instance, imagine a research department going through a restructuring that will entail assigning researchers into a set of predefined research groups based on their research topics. A panel of directors at the department might come up with their individual classifications of the whole faculty and an aggregation process should take place in order to reach a final classification. In a similar vein, assigning tasks to employees, characterizing celestial bodies into categories, identifying demographics in a population, allocating objects to individuals are CA problems. 
+
+Although there is some work done in setting the stage in terms of the formal models of CA problems (see Dokow and Holzman, 2010 and Maniquet and Mongin, 2016), the literature is rather scant when it comes to understanding the limits and possibilities of these models. For instance, manipulability, a very central concept in social choice theory, is not studied in the context of CA. Interestingly, this setting is related to, but different than, one of the classical settings studied in multiple criteria decision aiding, which aim at sorting objects into preferentially-ordered categories on the basis of evaluations of these objects on multiple points of view (Bouyssou and Marchant, 2007). Furthermore, there are plausible directions of inquiry in relation to classification algorithms in machine learning that also remain unexplored. Finally, some authors pointed to the possible usefulness of aggregation frameworks related to CA in solving certain problems within argumentation theory (see Awad et al. 2017, and Ganzer-Ripoli et al. 2019), without further exploration.  
+
+The current doctoral student proposal aims at exploring classification aggregation problems in relation to social choice theory, multiple criteria decision aiding, argumentation theory, and other branches of computer science. This would entail studying properties of CA rules, which are either already analyzed extensively or relatable to those that are already analyzed extensively in these fields. This research might be pursued both theoretically and experimentally. 
+
+== Research team
+. mailto:remzi.sanver@lamsade.dauphine.fr[Remzi Sanver], director of research at CNRS, LAMSADE (https://sanver.bilgi.edu.tr/[website])
+. mailto:olivier.cailloux@lamsade.dauphine.fr[Olivier Cailloux], MCF, LAMSADE (https://www.lamsade.dauphine.fr/~ocailloux/[webpage])
+. mailto:ali.ozkes@devinci.fr[Ali Ozkes], Researcher, Associated member of LAMSADE, Paris-Dauphine (https://ozkesali.github.io/[website])
+
+== Environment and contacts
+Applicants must send their CV, coordinates of a referent person, a letter of motivation and a listing of the courses they took in masters, together with their marks, to the three contact persons indicated here above, until 1 April 2022. The position is to start on 1 October 2022.
+
+The successful student will be hosted at https://www.lamsade.dauphine.fr/[LAMSADE], Université Paris-Dauphine, a part of Université Paris Sciences et Lettres.
+
