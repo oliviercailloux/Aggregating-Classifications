@@ -1,6 +1,6 @@
-= Aggregating Classifications: Theory and Computation
+= Funded PhD position on computational social choice: Aggregating Classifications
 
-We are currently looking for candidates to a PhD position at LAMSADE, Université Paris-Dauphine.
+We are currently looking for candidates to a PhD position at LAMSADE, Université Paris-Dauphine, on the subject of _Aggregating Classifications: Theory and Computation_.
 
 == Subject
 A classification is an assignment of objects into any collection of predefined categories. Classification aggregation (CA) refers to settings where an ordered list of classifications is aggregated into a single classification. The model admits various interpretations. For instance, imagine a research department going through a restructuring that will entail assigning researchers into a set of predefined research groups based on their research topics. A panel of directors at the department might come up with their individual classifications of the whole faculty and an aggregation process should take place in order to reach a final classification. In a similar vein, assigning tasks to employees, characterizing celestial bodies into categories, identifying demographics in a population, allocating objects to individuals are CA problems. 
@@ -20,12 +20,13 @@ Dokow, Elad, and Ron Holzman. "Aggregation of non-binary evaluations." Advances 
 
 Maniquet, François, and Philippe Mongin. "A theorem on aggregating classifications." Mathematical Social Sciences 79 (2016): 6-10.
 
-== Targetted candidates
+== Targeted candidates
 Students with a master degree who have received formal education in quantitative subjects such as Mathematics, Computer Science, and Economics with an interest in career in applied theoretical research are welcome to apply.
 
 Applicants must send their CV, coordinates of a referent person, a letter of motivation and a listing of the courses they took in masters, together with their marks, to the three contact persons indicated here below, until 1 April 2022. The position is to start on 1 October 2022.
 
 The successful student will be hosted at https://www.lamsade.dauphine.fr/[LAMSADE], Université Paris-Dauphine, a part of Université Paris Sciences et Lettres.
+She or he will benefit from a “https://www.enseignementsup-recherche.gouv.fr/fr/le-financement-doctoral-46472[contrat doctoral]” (a scholarship ruled by the French Ministry of Higher Education and Research), with according salary.
 
 == Research team
 . mailto:remzi.sanver@lamsade.dauphine.fr[Remzi Sanver], director of research at CNRS, LAMSADE (https://sanver.bilgi.edu.tr/[website])
