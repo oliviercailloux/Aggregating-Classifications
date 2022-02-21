@@ -10,11 +10,11 @@ Although there is some work done in setting the stage in terms of the formal mod
 The current doctoral student proposal aims at exploring classification aggregation problems in relation to social choice theory, multiple criteria decision aiding, argumentation theory, and other branches of computer science. This would entail studying properties of CA rules, which are either already analyzed extensively or relatable to those that are already analyzed extensively in these fields. This research might be pursued both theoretically and experimentally. 
 
 == References
-. Awad, Edmond, et al. "Experimental assessment of aggregation principles in argumentation-enabled collective intelligence." ACM Transactions on Internet Technology (TOIT) 17.3 (2017): 1-21.
-. Bouyssou, Denis, and Thierry Marchant. "An axiomatic approach to noncompensatory sorting methods in MCDM, I: The case of two categories." European Journal of Operational Research 178.1 (2007): 217-245.
-. Ganzer-Ripoll, Jordi, et al. "Combining social choice theory and argumentation: Enabling collective decision making." Group Decision and Negotiation 28.1 (2019): 127-173.
-. Dokow, Elad, and Ron Holzman. "Aggregation of non-binary evaluations." Advances in Applied Mathematics 45.4 (2010): 487-504.
-. Maniquet, François, and Philippe Mongin. "A theorem on aggregating classifications." Mathematical Social Sciences 79 (2016): 6-10.
+* Awad, Edmond, et al. "Experimental assessment of aggregation principles in argumentation-enabled collective intelligence." ACM Transactions on Internet Technology (TOIT) 17.3 (2017): 1-21.
+* Bouyssou, Denis, and Thierry Marchant. "An axiomatic approach to noncompensatory sorting methods in MCDM, I: The case of two categories." European Journal of Operational Research 178.1 (2007): 217-245.
+* Ganzer-Ripoll, Jordi, et al. "Combining social choice theory and argumentation: Enabling collective decision making." Group Decision and Negotiation 28.1 (2019): 127-173.
+* Dokow, Elad, and Ron Holzman. "Aggregation of non-binary evaluations." Advances in Applied Mathematics 45.4 (2010): 487-504.
+* Maniquet, François, and Philippe Mongin. "A theorem on aggregating classifications." Mathematical Social Sciences 79 (2016): 6-10.
 
 == Targeted candidates
 Students with a master degree who have received formal education in quantitative subjects such as Mathematics, Computer Science, and Economics with an interest in career in applied theoretical research are welcome to apply.
