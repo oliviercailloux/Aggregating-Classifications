@@ -2,6 +2,10 @@
 
 We are currently looking for candidates to a PhD position at LAMSADE, Université Paris-Dauphine, on the subject of _Aggregating Classifications: Theory and Computation_.
 
+ifndef::backend-docbook5[]
+Here is the https://github.com/oliviercailloux/Aggregating-Classifications/raw/main/Aggregating%20Classifications.pdf[PDF version] of this call.
+endif::[]
+
 == Subject
 A classification is an assignment of objects into any collection of predefined categories. Classification aggregation (CA) refers to settings where an ordered list of classifications is aggregated into a single classification. The model admits various interpretations. For instance, imagine a research department going through a restructuring that will entail assigning researchers into a set of predefined research groups based on their research topics. A panel of directors at the department might come up with their individual classifications of the whole faculty and an aggregation process should take place in order to reach a final classification. In a similar vein, assigning tasks to employees, characterizing celestial bodies into categories, identifying demographics in a population, allocating objects to individuals are CA problems. 
 
