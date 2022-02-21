@@ -26,7 +26,7 @@ Students with a master degree who have received formal education in quantitative
 Applicants must send their CV, coordinates of a referent person, a letter of motivation and a listing of the courses they took in masters, together with their marks, to the three contact persons indicated here below, until 1 April 2022. The position is to start on 1 October 2022.
 
 The successful student will be hosted at https://www.lamsade.dauphine.fr/[LAMSADE], Université Paris-Dauphine, a part of Université Paris Sciences et Lettres.
-She or he will benefit from a “https://www.enseignementsup-recherche.gouv.fr/fr/le-financement-doctoral-46472[contrat doctoral]” (a scholarship ruled by the French Ministry of Higher Education and Research), with according salary.
+She or he will benefit from a “link:https://www.enseignementsup-recherche.gouv.fr/fr/le-financement-doctoral-46472[contrat doctoral]” (a scholarship ruled by the French Ministry of Higher Education and Research), with according salary.
 
 == Research team
 . mailto:remzi.sanver@lamsade.dauphine.fr[Remzi Sanver], director of research at CNRS, LAMSADE (https://sanver.bilgi.edu.tr/[website])
